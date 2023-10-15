@@ -1,4 +1,4 @@
-<h2 align="left">Olá meu nome é Arhur Moura moro em São Paulo e estou estudando desenvolvimento de sistemas na Etec Prof. Camargo aAanha.</h2>
+<h2 align="left">Olá meu nome é Arhur Moura moro em São Paulo e estou estudando desenvolvimento de sistemas na Etec Prof. Camargo Aranha.</h2>
 
 ###
 
