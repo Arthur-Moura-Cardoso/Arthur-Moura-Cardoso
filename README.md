@@ -1,10 +1,9 @@
 
 <h1 align="center">Arthur Moura Cardoso
   <br>
+  <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=6E40DF&center=true&random=false&width=435&lines=Harder;Better;Faster;Stronger" alt="Typing SVG" /></a>
 </h1>
-
-###
 
 <p align="center">
   Hello there, my name is Arthur and I'am WebDeveloper👨‍💻 / Gamer🎮 / Student📝
