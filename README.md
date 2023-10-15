@@ -1,6 +1,6 @@
 <h1 align="center">Arthur Moura Cardoso
 <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=6E40DF&random=false&width=435&lines=Harder;Better;Faster;Stronger" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=6E40DF&random=false&width=435&lines=Harder;Better;Faster;Stronger" alt="Typing SVG" /></a>
 </h1>
 ###
 
