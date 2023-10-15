@@ -47,4 +47,5 @@
 
 <br clear="both">
 
+https://github.com/Arthur-Moura-Cardoso/Arthur-Moura-Cardoso/blob/output/github-contribution-grid-snake.gif
 ###
