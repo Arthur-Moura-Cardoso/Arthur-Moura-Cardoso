@@ -8,7 +8,6 @@
   I live in São Paulo / Brazil ✈️
   <br>
   Study in Etec Prof. Camargo Aranha / Systems Development 📖
-  <img align="right" height="150" src="https://i.pinimg.com/originals/f7/e9/17/f7e917f815b0fde9e293931212bfd59e.gif"  />
   <br>
   <div align="center">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
