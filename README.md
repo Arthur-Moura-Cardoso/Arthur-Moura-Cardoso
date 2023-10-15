@@ -1,4 +1,16 @@
-<h2 align="left">Olá meu nome é Arhur Moura moro em São Paulo e estou estudando desenvolvimento de sistemas na Etec Prof. Camargo Aranha.</h2>
+<h1 align="center">Arthur Moura Cardoso</h1>
+
+###
+
+<p align="center">
+  Hello there, my name is Arthur and I'am WebDeveloper👨‍💻 / Gamer🎮 / Student📝
+  <br>
+  I live in São Paulo / Brazil ✈️
+  <br>
+  Etec Prof. Camargo Aranha / Systems Development 📖
+  <br>
+  
+</p>
 
 ###
 
@@ -12,7 +24,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/f7/e9/17/f7e917f815b0fde9e293931212bfd59e.gif"  />
 
 ###
-
+<h2>🛠️Languages and Tools🛠️</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -37,15 +49,23 @@
 
 ###
 
+<h3>Learning</h3>
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
+
+###
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-https://github.com/Arthur-Moura-Cardoso/Arthur-Moura-Cardoso/blob/output/github-contribution-grid-snake.gif
 ###
