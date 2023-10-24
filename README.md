@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  Hello there, my name is Arthur and I'am WebDeveloper👨‍💻 / Gamer🎮 / Student📝
+  Hello there, my name is Arthur and I'am WebDeveloper👨🏼‍💻 / Gamer🎮 / Student📚
   <br>
-  I live in São Paulo / Brazil ✈️
+  I live in São Paulo / Brazil 📌
   <br>
   Study in Etec Prof. Camargo Aranha / Systems Development 📖
   <br>
