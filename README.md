@@ -77,6 +77,6 @@
 ###
 <div align="center">
 
-  ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&font=helvetica&quote=Risco+é+uma+coisa+que+a+maiora+das+pessoas+tem+medo,+eu+considero+o+risco+uma+parte+da+vida,+tem+que+correr+risco,+se+você+não+corre+nenhum+risco+você+não+faz+nada.&author=Jorge+Paulo+Lehmann)
+  ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&font=helvetica&quote=O+maior+risco+é+não+correr+riscos,+não+dá+para+ficar+sem+correr+nenhum+risco,+senão+você+não+faz+nada..&author=Jorge+Paulo+Lehmann)
  
 </div>
