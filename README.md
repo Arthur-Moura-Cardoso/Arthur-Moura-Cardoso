@@ -73,3 +73,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
 </div>
+
+###
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)]
