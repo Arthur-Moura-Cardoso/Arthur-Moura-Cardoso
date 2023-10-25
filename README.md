@@ -77,6 +77,6 @@
 ###
 <div align="center">
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=siuu)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Risco+é+uma+coisa+que+a+maiora+das+pessoas+tem+medo,+eu+considero+o+risco+uma+parte+da+vida,+tem+que+correr+risco,+se+você+não+corre+nenhum+risco+você+não+faz+nada.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
