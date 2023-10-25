@@ -76,4 +76,4 @@
 
 ###
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)]
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
