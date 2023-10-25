@@ -30,9 +30,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Moura-Cardoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arthur-Moura-Cardoso&theme=transparent&mode=weekly&card_width=467)](https://git.io/streak-stats)
-  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Moura-Cardoso&theme=transparent&show_icons=true)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arthur-Moura-Cardoso&theme=transparent&mode=weekly&card_width=467)](https://git.io/streak-stats)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Moura-Cardoso&theme=transparent&card_width=467)
+  
 </div>
 
 ###
