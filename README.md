@@ -77,6 +77,6 @@
 ###
 <div align="center">
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Risco+é+uma+coisa+que+a+maiora+das+pessoas+tem+medo,+eu+considero+o+risco+uma+parte+da+vida,+tem+que+correr+risco,+se+você+não+corre+nenhum+risco+você+não+faz+nada.)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quotify](https://github-readme-quotify.vercel.app/api?mode=normal&type=horizontal&theme=catppuccin_mocha&quote=Risco+é+uma+coisa+que+a+maiora+das+pessoas+tem+medo,+eu+considero+o+risco+uma+parte+da+vida,+tem+que+correr+risco,+se+você+não+corre+nenhum+risco+você+não+faz+nada.&author=Jorge+Paulo+Lehmann)](https://github.com/Vishal-beep136/github-readme-quotify)
 
 </div>
