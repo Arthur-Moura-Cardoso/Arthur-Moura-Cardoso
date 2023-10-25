@@ -77,6 +77,6 @@
 ###
 <div align="center">
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=si u)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=siuu)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
