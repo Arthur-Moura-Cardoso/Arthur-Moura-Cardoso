@@ -60,6 +60,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  
 </div>
 
 ###
