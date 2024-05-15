@@ -51,6 +51,8 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
@@ -61,7 +63,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   
 </div>
 
@@ -71,8 +73,7 @@
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
 </div>
