@@ -29,8 +29,6 @@
 
 <div align="center">
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Moura-Cardoso&theme=transparent&show_icons=true)
- 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arthur-Moura-Cardoso&theme=transparent&mode=weekly&card_width=467)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Moura-Cardoso&theme=transparent&card_width=467)
