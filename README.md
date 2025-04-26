@@ -55,14 +55,13 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  
 </div>
 
 ###
@@ -70,7 +69,8 @@
 <h3>Learning</h3>
 <br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
