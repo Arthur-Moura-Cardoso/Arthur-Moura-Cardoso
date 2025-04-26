@@ -51,6 +51,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="20" />
+  <br />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
